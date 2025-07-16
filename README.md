@@ -8,14 +8,14 @@
 
 1. Завантаж [архів з перекладом](https://github.com/imhvost/Shadow-Tactics-Ukrainian-Localization/archive/refs/heads/main.zip)
 
-2. В архіві буде файл `ua.assets`
+2. В архіві буде файл `uk.assets`
 
 3. Відкрий папку з грою:  
    `...\steamapps\common\Shadow Tactics\Shadow Tactics_Data\`
 
 4. Зроби резервну копію файлу `resources.assets` (на випадок, якщо потрібно буде повернути оригінал)
 
-5. Перейменуй файл `ua.assets` на `resources.assets`
+5. Перейменуй файл `uk.assets` на `resources.assets`
 
 6. Замініть ним оригінальний файл у папці `Shadow Tactics_Data`
 
